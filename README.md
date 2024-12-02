@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @robertobuenrostro
-- 👀 I’m interested in cybersecurity.
-- 🌱 I’m currently learning the basics in information techology.
-- 💞️ I’m looking to collaborate on anything cybersecurity related.
-- 📫 How to reach me - robertobuenrostro16@gmail.com 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I have 6 years in automotive experience, I have taken apart an 86 corolla to the bare frame and switch everything over to new frame for fun and to learn. 
+## Hello, I'm Roberto Buenrostro
 
-<!---
-robertobuenrostro/robertobuenrostro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://www.linkedin.com/in/roberto-buenrostro/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+## Introduction
+
+Hi, I’m Roberto Buenrostro, an IT enthusiast transitioning from automotive technology to tech. 
+I’m passionate about Linux systems, networking, and building creative solutions to technical challenges, and I’m currently seeking an entry-level IT position to grow my skills and contribute to impactful projects.
+
+## objective
+
+Seeking an entry-level IT position where I can apply my technical skills, contribute to innovative solutions, and grow alongside a forward-thinking company committed to continuous learning and development.
+
+
+## Skills
+>Operating Systems: Proficient in Linux (Ubuntu) and Windows installation and configuration
+
+>System Administration: Experience with Linux command-line tools, package management, file permissions, and user configuration
+
+>Networking: Basic understanding of TCP/IP, DNS, DHCP, and secure file sharing (SMB, SSH)
+
+>PC Building: Skilled in assembling custom PCs and optimizing system performance
+
+>Cybersecurity: Familiar with network security fundamentals, including firewall configuration and port scanning
+
+>Tools & Platforms: Hands-on experience with UFW firewall, Salesforce CRM, and troubleshooting tools
+
+
+## Certifications
+Google IT Support Professional Certificate 
+University of denver cybersecurity Certificate
