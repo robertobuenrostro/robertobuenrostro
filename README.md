@@ -29,4 +29,4 @@ Seeking an entry-level IT position where I can apply my technical skills, contri
 ## Certifications
 Google IT Support Professional Certificate 
 
-University of denver cybersecurity Certificate
+University of Denver Cybersecurity Certificate
